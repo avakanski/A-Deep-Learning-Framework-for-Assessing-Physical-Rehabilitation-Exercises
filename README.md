@@ -3,7 +3,7 @@
 The codes in this repository are based on the eponymous research project <a href="https://arxiv.org/abs/1901.10435">A Deep Learning Framework for Assessing Physical Rehabilitation Exercises</a>. The proposed framework for automated quality assessment of physical rehabilitation exercises encompasses metrics for quantifying movement performance, scoring functions for mapping the performance metrics into numerical scores of movement quality, techniques for dimensionality reduction, and deep neural network models for regressing quality scores of input movements via supervised learning. 
 
 # Data
-UI-PRMD dataset <a href="https://www.webpages.uidaho.edu/ui-prmd/">UI-PRMD dataset</a> of rehabilitation movements is used. It contains full-body skeletal joint displacements for 10 movements performed by 10 healthy subjects. The codes employ 117-dimensional skeletal angles acquired with a Vicon optical tracker for the deep squat exercise. 
+<a href="https://www.webpages.uidaho.edu/ui-prmd/">UI-PRMD dataset</a> of rehabilitation movements is used. It contains full-body skeletal joint displacements for 10 movements performed by 10 healthy subjects. The codes employ 117-dimensional skeletal angles acquired with a Vicon optical tracker for the deep squat exercise. 
 
 # Neural Network Codes
 The codes are developed using the Keras library.

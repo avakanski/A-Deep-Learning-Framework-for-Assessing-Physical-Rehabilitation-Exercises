@@ -19,7 +19,7 @@ The codes are developed using MATLAB.
 * Autoencoder - distance functions on reduced-dimensionality data using an autoencoder neural network.
 * No Dimensionality Reduction - distance functions on full-body data (117 dimensions).
 
-Please see the ReadMe file in the repository for a complete list and brief descriptions of all files. 
+Please see the List of Files and Functions document for a complete list and brief descriptions of all files in the repository. 
 
 # License
 MIT License

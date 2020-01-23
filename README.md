@@ -21,7 +21,7 @@ The codes were developed using MATLAB.
 
 Please see the List of Files and Functions document for a complete list and brief descriptions of all files in the repository. 
 
-A version of the codes with verified reproducility is also published on Code Ocean and can be accessed via the following DOI link: <a href="https://doi.org/10.24433/CO.3098874.v2">https://doi.org/10.24433/CO.3098874.v2</a>
+A version of the codes with verified reproducibility is also published on Code Ocean and can be accessed via the following DOI link: <a href="https://doi.org/10.24433/CO.3098874.v2">https://doi.org/10.24433/CO.3098874.v2</a>
 
 # License
 MIT License

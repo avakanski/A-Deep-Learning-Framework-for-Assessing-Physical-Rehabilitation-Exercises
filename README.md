@@ -7,7 +7,7 @@ The codes in this repository are based on the eponymous research project <a href
 
 # Neural Network Codes
 The codes were developed using the Keras library.
-* SpatioTemporal NN - the proposed deep spatio-temporal model in the paper (implementations with Vicon and Kinect movement data are available)
+* SpatioTemporal NN - the proposed deep spatio-temporal model in the paper (implementations with skeletal data collected with Vicon and Kinect v2 are available)
 * CNN - a basic convolutional neural network
 * RNN - a basic recurrent neural network
 * Augmented data models - are based on data augmentation with random noise. Data augmentation was applied in an initial version of the project (v1 and v2 versions on arXiv), but it is not included in the final version of the paper.

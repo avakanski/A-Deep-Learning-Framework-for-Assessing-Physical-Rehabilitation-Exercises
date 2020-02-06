@@ -24,7 +24,7 @@ Please see the List of Files and Functions document for a complete list and brie
 A version of the codes with verified reproducibility is also published on Code Ocean and can be accessed via the following DOI link: <a href="https://doi.org/10.24433/CO.3098874.v2">https://doi.org/10.24433/CO.3098874.v2</a>
 
 # License
-<a href="Licence - MIT.txt">MIT License
+<a href="License - MIT.txt">MIT License
 
 # Acknowledgments
 This work was supported by the <a href="https://imci.uidaho.edu/get-involved/about-cmci/">Institute for Modeling Collaboration and Innovation (IMCI)</a> at the University of Idaho through NIH Award #P20GM104420.

@@ -28,3 +28,7 @@ A version of the codes with verified reproducibility is also published on Code O
 
 # Acknowledgments
 This work was supported by the <a href="https://imci.uidaho.edu/get-involved/about-cmci/">Institute for Modeling Collaboration and Innovation (IMCI)</a> at the University of Idaho through NIH Award #P20GM104420.
+
+# Contact or Questions
+<a href="https://www.webpages.uidaho.edu/vakanski/">A. Vakanski</a>, e-mail: vakanski at uidaho.edu.
+

@@ -21,7 +21,7 @@ The codes were developed using MATLAB.
 
 Please see the List of Files and Functions document for a complete list and brief descriptions of all files in the repository. 
 
-A version of the codes with verified reproducibility is also published on Code Ocean and can be accessed via the following DOI link: <a href="https://codeocean.com/capsule/7213982/tree/v3">https://codeocean.com/capsule/7213982/tree/v3</a>
+A version of the codes with verified reproducibility is also published on Code Ocean and can be accessed via the following link: <a href="https://codeocean.com/capsule/7213982/tree/v3">https://codeocean.com/capsule/7213982/tree/v3</a>
 
 # License
 <a href="License - MIT.txt">MIT License</a>

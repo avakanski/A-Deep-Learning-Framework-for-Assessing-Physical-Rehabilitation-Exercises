@@ -3,7 +3,7 @@
 The codes in this repository are based on the eponymous research project <a href="https://arxiv.org/abs/1901.10435">A Deep Learning Framework for Assessing Physical Rehabilitation Exercises</a>. The proposed framework for automated quality assessment of physical rehabilitation exercises encompasses metrics for quantifying movement performance, scoring functions for mapping the performance metrics into numerical scores of movement quality, techniques for dimensionality reduction, and deep neural network models for regressing quality scores of input movements via supervised learning. 
 
 # Data
-<a href="https://www.webpages.uidaho.edu/ui-prmd/">UI-PRMD dataset</a> of rehabilitation movements is used. It contains full-body skeletal joint displacements for 10 movements performed by 10 healthy subjects. The codes employ 117-dimensional skeletal angles acquired with a Vicon optical tracker for the deep squat exercise. The subset of movement data used in the paper can be downloaded fom the "Reduced Data Set" section on the website.
+<a href="https://www.webpages.uidaho.edu/ui-prmd/">UI-PRMD dataset</a> of rehabilitation movements is used. It contains full-body skeletal joint displacements for 10 movements performed by 10 healthy subjects. The codes employ 117-dimensional skeletal angles acquired with a Vicon optical tracker for the deep squat exercise. The subset of movement data used in the paper can be downloaded from the "Reduced Data Set" section on the website.
 
 # Neural Network Codes
 The codes were developed using the Keras library.
@@ -29,7 +29,20 @@ Please see the List of Files and Functions document for a complete list and brie
 * Run "SpatioTemporalNN_Vicon" to train the model and predict movement quality scores on the Vicon-captured movement data.
 * Run "SpatioTemporalNN_Kinect" to train the model and predict movement quality scores on the Vicon-captured movement data.
 
-A slighly different version of the codes with verified reproducibility is also published on Code Ocean and can be accessed via the following link: <a href="https://codeocean.com/capsule/7213982/tree/v3">https://codeocean.com/capsule/7213982/tree/v3</a>
+A slightly different version of the codes with verified reproducibility is also published on Code Ocean and can be accessed via the following link: <a href="https://codeocean.com/capsule/7213982/tree/v3">https://codeocean.com/capsule/7213982/tree/v3</a>
+
+# Citation
+If you use the codes or the methods in your work, please cite the following article:   
+
+    @ARTICLE{Liao2020,
+    title={A Deep Learning Framework for Assessing Physical Rehabilitation Exercises},
+    author={Liao, Y. and Vakanski, A. and Xian, M.},
+    journal={IEEE Transactions on Neural Systems and Rehabilitation Engineering}, 
+    year={2020},
+    month={Feb.},
+    volume={},
+    pages={},
+    }
 
 # License
 MIT License

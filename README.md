@@ -45,7 +45,7 @@ If you use the codes or the methods in your work, please cite the following arti
     }
 
 # License
-<a href="License - MIT.txt">MIT License</a>MIT License
+<a href="License - MIT.txt">MIT License</a>
 
 # Acknowledgments
 This work was supported by the <a href="https://imci.uidaho.edu/get-involved/about-cmci/">Institute for Modeling Collaboration and Innovation (IMCI)</a> at the University of Idaho through NIH Award #P20GM104420.

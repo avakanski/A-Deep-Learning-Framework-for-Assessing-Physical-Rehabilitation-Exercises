@@ -25,7 +25,7 @@ Please see the List of Files and Functions document for a complete list and brie
 # Use
 * Run "Prepare_Data_for_NN" to read the movements data, and perform pre-processing steps, such as length alignment and centering. Alternatively, skip this step, since the outputs are saved in the Data folder (Data_Correct.csv and Data_Incorrect.csv).
 * Run "Autoencoder_Dims_Reduction" to reduce the dimensionality of the movement data. Alternatively, skip this step, since the outputs are saved in the Data folder (Autoencoder_Output_Correct.csv and Autoencoder_Output_Incorrect.csv).
-* Run "Prepared_Labels_for_NN" to generate quality scores for the individual movement repetitions. Alternatively, skip this step, since the outputs are saved in the Data folder (Labels_Correct.csv and Labels_Incorrect.csv)
+* Run "Prepare_Labels_for_NN" to generate quality scores for the individual movement repetitions. Alternatively, skip this step, since the outputs are saved in the Data folder (Labels_Correct.csv and Labels_Incorrect.csv)
 * Run "SpatioTemporalNN_Vicon" to train the model and predict movement quality scores on the Vicon-captured movement data.
 * Run "SpatioTemporalNN_Kinect" to train the model and predict movement quality scores on the Vicon-captured movement data.
 
@@ -45,7 +45,7 @@ If you use the codes or the methods in your work, please cite the following arti
     }
 
 # License
-MIT License
+<a href="License - MIT.txt">MIT License</a>MIT License
 
 # Acknowledgments
 This work was supported by the <a href="https://imci.uidaho.edu/get-involved/about-cmci/">Institute for Modeling Collaboration and Innovation (IMCI)</a> at the University of Idaho through NIH Award #P20GM104420.

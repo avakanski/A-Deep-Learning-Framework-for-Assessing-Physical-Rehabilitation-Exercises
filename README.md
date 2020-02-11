@@ -20,7 +20,7 @@ The codes were developed using MATLAB.
 * Autoencoder - distance functions on reduced-dimensionality data using an autoencoder neural network.
 * No Dimensionality Reduction - distance functions on full-body skeletal data (117 dimensions).
 
-Please see the List of Files and Functions document for a complete list and brief descriptions of all files in the repository. 
+Please see the <a href="List of Files and Functions.pdf">List of Files and Functions</a> document for a complete list and brief descriptions of all files in the repository. 
 
 # Use
 * Run "Prepare_Data_for_NN" to read the movements data, and perform pre-processing steps, such as length alignment and centering. Alternatively, skip this step, since the outputs are saved in the Data folder (Data_Correct.csv and Data_Incorrect.csv).

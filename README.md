@@ -23,9 +23,9 @@ The codes were developed using MATLAB.
 Please see the <a href="List of Files and Functions.pdf">List of Files and Functions</a> document for a complete list and brief descriptions of all files in the repository. 
 
 # Use
-* Run "Prepare_Data_for_NN" to read the movements data, and perform pre-processing steps, such as length alignment and centering. Alternatively, skip this step, since the outputs are saved in the Data folder (Data_Correct.csv and Data_Incorrect.csv).
-* Run "Autoencoder_Dims_Reduction" to reduce the dimensionality of the movement data. Alternatively, skip this step, since the outputs are saved in the Data folder (Autoencoder_Output_Correct.csv and Autoencoder_Output_Incorrect.csv).
-* Run "Prepare_Labels_for_NN" to generate quality scores for the individual movement repetitions. Alternatively, skip this step, since the outputs are saved in the Data folder (Labels_Correct.csv and Labels_Incorrect.csv)
+* Run "Prepare_Data_for_NN" to read the movements data, and perform pre-processing steps, such as length alignment and centering. Alternatively, skip this step, the outputs are saved in the Data folder (Data_Correct.csv and Data_Incorrect.csv).
+* Run "Autoencoder_Dims_Reduction" to reduce the dimensionality of the movement data. Alternatively, skip this step, the outputs are saved in the Data folder (Autoencoder_Output_Correct.csv and Autoencoder_Output_Incorrect.csv).
+* Run "Prepare_Labels_for_NN" to generate quality scores for the individual movement repetitions. Alternatively, skip this step, the outputs are saved in the Data folder (Labels_Correct.csv and Labels_Incorrect.csv)
 * Run "SpatioTemporalNN_Vicon" to train the model and predict movement quality scores on the Vicon-captured movement data.
 * Run "SpatioTemporalNN_Kinect" to train the model and predict movement quality scores on the Vicon-captured movement data.
 

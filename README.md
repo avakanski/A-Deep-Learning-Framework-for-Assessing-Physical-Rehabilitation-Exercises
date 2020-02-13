@@ -32,7 +32,7 @@ Please see the <a href="List of Files and Functions.pdf">List of Files and Funct
 A slightly different version of the codes with verified reproducibility is also published on Code Ocean and can be accessed via the following link: <a href="https://codeocean.com/capsule/7213982/tree/v3">https://codeocean.com/capsule/7213982/tree/v3</a>
 
 # Citation
-If you use the codes or the methods in your work, please cite the following article:   
+If you use the codes or the methods in your work, please cite the following <a href="https://ieeexplore.ieee.org/abstract/document/8957502">article</a>:   
 
     @ARTICLE{Liao2020,
     title={A Deep Learning Framework for Assessing Physical Rehabilitation Exercises},
@@ -40,8 +40,9 @@ If you use the codes or the methods in your work, please cite the following arti
     journal={IEEE Transactions on Neural Systems and Rehabilitation Engineering}, 
     year={2020},
     month={Feb.},
-    volume={},
-    pages={},
+    volume={28},
+    number={2}
+    pages={468-477},
     }
 
 # License

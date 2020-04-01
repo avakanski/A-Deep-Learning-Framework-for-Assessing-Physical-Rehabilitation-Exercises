@@ -27,7 +27,7 @@ Please see the <a href="List of Files and Functions.pdf">List of Files and Funct
 * Run "Autoencoder_Dims_Reduction" to reduce the dimensionality of the movement data. Alternatively, skip this step, the outputs are saved in the Data folder (Autoencoder_Output_Correct.csv and Autoencoder_Output_Incorrect.csv).
 * Run "Prepare_Labels_for_NN" to generate quality scores for the individual movement repetitions. Alternatively, skip this step, the outputs are saved in the Data folder (Labels_Correct.csv and Labels_Incorrect.csv)
 * Run "SpatioTemporalNN_Vicon" to train the model and predict movement quality scores on the Vicon-captured movement data.
-* Run "SpatioTemporalNN_Kinect" to train the model and predict movement quality scores on the Vicon-captured movement data.
+* Run "SpatioTemporalNN_Kinect" to train the model and predict movement quality scores on Kinect-captured movement data.
 
 A slightly different version of the codes with verified reproducibility is also published on Code Ocean and can be accessed via the following link: <a href="https://codeocean.com/capsule/7213982/tree/v3">https://codeocean.com/capsule/7213982/tree/v3</a>
 

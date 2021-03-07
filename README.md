@@ -1,6 +1,7 @@
 # A-Deep-Learning-Framework-for-Assessing-Physical-Rehabilitation-Exercises
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-deep-learning-framework-for-assessing/action-quality-assessment-on-ui-prmd)](https://paperswithcode.com/sota/action-quality-assessment-on-ui-prmd?p=a-deep-learning-framework-for-assessing)
+[![arXiv](https://img.shields.io/badge/arXiv-2019.10435-b31b1b)](https://arxiv.org/abs/1901.10435)
 
 The codes in this repository are based on the eponymous research project <a href="https://arxiv.org/abs/1901.10435">A Deep Learning Framework for Assessing Physical Rehabilitation Exercises</a>. The proposed framework for automated quality assessment of physical rehabilitation exercises encompasses metrics for quantifying movement performance, scoring functions for mapping the performance metrics into numerical scores of movement quality, techniques for dimensionality reduction, and deep neural network models for regressing quality scores of input movements via supervised learning. 
 
